@@ -35,7 +35,8 @@ or even better
 
 - Simple dependency tracking
 - Modern ES6-oriented usage
-- Dead simple
+- Runners can have multiple dependencies
+- Dependencies can have multiple runners
 
 # Todo
 
